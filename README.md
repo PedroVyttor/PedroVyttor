@@ -1,4 +1,4 @@
-# 🎩 Hi! I'm Dom Henrique!
+# 🎩 Hi! I'm Vyttor Alves!
 
 - Computer Science student [1/8];
 - "Between Us" author;
