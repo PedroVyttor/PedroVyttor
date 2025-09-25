@@ -1,11 +1,11 @@
 # Vyttor Alves
 
-- Estudante de Ciência da Computação [1/8];
+- Estudante de Ciência da Computação (1/8);
 - Marketing Digital;
 - Futuro desenvolvedor;
 - Foco em desenvolvimento de jogos.
 
-# Linguagens
+# Linguagens:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <!--
@@ -14,7 +14,7 @@
 -->
 <br>
 
-# Technologies
+# Tecnologias:
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br>
