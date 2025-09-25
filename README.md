@@ -1,7 +1,7 @@
 # Vyttor Alves
 
 - Estudante de Ciência da Computação [1/8];
-- Digital Marketing;
+- Marketing Digital;
 - Futuro desenvolvedor;
 - Foco em desenvolvimento de jogos.
 
