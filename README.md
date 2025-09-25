@@ -1,11 +1,9 @@
 # 🎩 Hi! I'm Vyttor Alves!
 
-- Computer Science student [1/8];
-- "Between Us" author;
+- Estudante de Ciência da Computação [1/8];
 - Digital Marketing;
-- High school diploma with integrated computer science;
-- Being software engineer;
-- Focusing on web, mobile, and game development.
+- Futuro desenvolvedor;
+- Foco em desenvolvimento de jogos.
 
 ***Ave Christus Rex!***
 <!--
@@ -19,7 +17,7 @@
    </p>
 -->
 
-# 🧰 Languages
+# 🧰 Linguagens
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <!--
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
